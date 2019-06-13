@@ -21,15 +21,9 @@ An analysis of rides from a ridesharing company using the Pandas and Matplotlib 
 
 ### Pie Charts For:
 
-* % of Total Fares by City Type
-
 ![Fares](images/totalfares.png)
 
-* % of Total Rides by City Type
-
 ![Rides](images/totalrides.png)
-
-* % of Total Drivers by City Type
 
 ![Drivers](images/totaldrivers.png)
 
